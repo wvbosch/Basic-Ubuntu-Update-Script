@@ -5,4 +5,4 @@ Includes updating snap and flatpak packages
 sudo chmod +x up.sh
 
 ### Run file
-./up.sh
+sudo ./up.sh
